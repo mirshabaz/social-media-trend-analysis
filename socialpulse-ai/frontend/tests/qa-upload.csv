@@ -1,0 +1,4 @@
+post_id,platform,post_content,likes,shares,comments,author,timestamp
+QA1,Instagram,Playwright upload succeeds,10,2,1,Alice,2026-11-24
+QA2,LinkedIn,QA data is useful,20,5,3,Bob,2026-11-23
+QA2,LinkedIn,QA data is useful,20,5,3,Bob,2026-11-23

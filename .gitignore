@@ -15,6 +15,13 @@ dist/
 .env
 .env.local
 socialpulse-ai/backend/dataset_uploads/
+socialpulse-ai/dataset_uploads/
+socialpulse-ai/reports/
+socialpulse-ai/backups/
+
+# Test artifacts
+socialpulse-ai/frontend/test-results/
+socialpulse-ai/frontend/playwright-report/
 
 # IDE and operating-system files
 .vscode/
